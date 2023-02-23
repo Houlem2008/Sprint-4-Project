@@ -36,6 +36,9 @@ df = df[['price', 'year', 'make', 'model', 'condition', 'cylinders', 'fuel','odo
 
 st.header('Exploratory Analysis of Auto Listings')
 st.write('''
+The goal of this exploratory analysis is to use the interactive displays provided to assess trends and/or patterns relating to the listing of automobiles posted to be sold.
+''')
+st.write('''
 Default display of vehicles only includes those listed for 30 days or less. In order to see all listings, including those listed for more than 30 days, click the checkbox below.
 ''')
 old_listings = st.checkbox('Show cars listed over 30 days')
