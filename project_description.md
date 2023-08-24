@@ -1,4 +1,4 @@
-My Sprint 4 Project - Sprint Length was 3 weeks.
+My Sprint 4, Software Devolopment Tools, project. Sprint length was 3 weeks.
 
 The included files were those required for the project. There was a visualization with Streamlit to allow for the use of sliders and selectable options to alter the graphics, however, the server we utilized for running the program was a free version and low spec and I am unsure if the service is still active or if there was an expiration date. This being the case, the final product of the project may not be easily accessed - however, all code is included along with the csv file that the data came from.
 
